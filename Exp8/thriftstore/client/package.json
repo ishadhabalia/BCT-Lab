@@ -1,0 +1,23 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "events": "^3.3.0",
+    "parcel": "^2.8.0",
+    "path-browserify": "^1.0.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "glob": "^8.0.3",
+    "web3": "^1.8.1"
+  }
+}
